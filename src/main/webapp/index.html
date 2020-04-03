@@ -1,0 +1,41 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><script src=static/js/jquery.min.js></script><title>发票云接口平台</title><style type=text/css>::-webkit-scrollbar
+			{
+			  width: 8px;
+			  height: 8px;
+			}
+			::-webkit-scrollbar-thumb
+			{
+			  border-radius: 8px;
+			  -ms-scrollbar-face-color: #dfe3e6;
+			  background-color: #dfe3e6;
+			}</style><link href=./static/css/app.f9ed751d9823c53a23ef0af16c5df7e1.css rel=stylesheet></head><body><div id=app></div><script type=text/javascript src=./static/js/manifest.6b8cf57a54425b37e8d2.js></script><script type=text/javascript src=./static/js/vendor.0a911d29e81ed060745e.js></script><script type=text/javascript src=./static/js/app.e0f31188805d35e178ee.js></script></body><script>(function (doc, win) {
+      var docEl = doc.documentElement,
+        resizeEvt = 'orientationchange' in window ? 'orientationchange' : 'resize',
+        recalc = function () {
+          var clientWidth = docEl.clientWidth;
+          if (!clientWidth) return;
+          if(clientWidth>=640){
+            docEl.style.fontSize = '100px';
+          }else{
+            docEl.style.fontSize = 100 * (clientWidth / 640) + 'px';
+          }
+        };
+
+      if (!doc.addEventListener) return;
+      win.addEventListener(resizeEvt, recalc, false);
+      doc.addEventListener('DOMContentLoaded', recalc, false);
+    })(document, window);
+
+    (function () {
+      function getViewPortHeight() {
+        return document.documentElement.clientHeight || document.body.clientHeight;
+      }
+      function setHeight(){
+        document.body.style.height=getViewPortHeight()+'px';
+        // document.body.style.overflow = 'hidden'
+      }
+      setHeight();
+      $(window).resize(function() {//动态监听监听网页窗口变化
+        setHeight();
+      });
+    })()</script></html>

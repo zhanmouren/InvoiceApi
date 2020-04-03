@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/gdh_css/!svn/ver/5055/InvoiceApi/src/main/java/com/korosoft/invoice/authority
+END
+LoginAuthorizeAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gdh_css/!svn/ver/5013/InvoiceApi/src/main/java/com/korosoft/invoice/authority/LoginAuthorizeAspect.java
+END
+TimestampValidationAspect.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/gdh_css/!svn/ver/5055/InvoiceApi/src/main/java/com/korosoft/invoice/authority/TimestampValidationAspect.java
+END

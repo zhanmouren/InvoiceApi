@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/gdh_css/!svn/ver/5269/InvoiceApi/src/main/java/com/korosoft/invoice/service
+END
+CallbackService.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/gdh_css/!svn/ver/5018/InvoiceApi/src/main/java/com/korosoft/invoice/service/CallbackService.java
+END
+SysLogService.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/service/SysLogService.java
+END
+SysUserService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/service/SysUserService.java
+END
+InvoiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/gdh_css/!svn/ver/5086/InvoiceApi/src/main/java/com/korosoft/invoice/service/InvoiceService.java
+END
+SysConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gdh_css/!svn/ver/5268/InvoiceApi/src/main/java/com/korosoft/invoice/service/SysConfigService.java
+END
+InvoiceStatisticsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/gdh_css/!svn/ver/5275/InvoiceApi/src/main/java/com/korosoft/invoice/service/InvoiceStatisticsService.java
+END
+Contans.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gdh_css/!svn/ver/5038/InvoiceApi/src/main/java/com/korosoft/invoice/service/Contans.java
+END
+ElectronicInvoiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/gdh_css/!svn/ver/5093/InvoiceApi/src/main/java/com/korosoft/invoice/service/ElectronicInvoiceService.java
+END
+EtcloudApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gdh_css/!svn/ver/4980/InvoiceApi/src/main/java/com/korosoft/invoice/service/EtcloudApi.java
+END
+SpecialInvoiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gdh_css/!svn/ver/5038/InvoiceApi/src/main/java/com/korosoft/invoice/service/SpecialInvoiceService.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/gdh_css/!svn/ver/5253/InvoiceApi/src/main/java/com/korosoft/invoice/authority/annotation
+END
+LoginToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gdh_css/!svn/ver/5014/InvoiceApi/src/main/java/com/korosoft/invoice/authority/annotation/LoginToken.java
+END
+LogType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gdh_css/!svn/ver/5253/InvoiceApi/src/main/java/com/korosoft/invoice/authority/annotation/LogType.java
+END
+StaffAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/authority/annotation/StaffAttribute.java
+END
+Validation.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gdh_css/!svn/ver/5016/InvoiceApi/src/main/java/com/korosoft/invoice/authority/annotation/Validation.java
+END

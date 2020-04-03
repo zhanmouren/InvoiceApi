@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/gdh_css/!svn/ver/5269/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl
+END
+CallbackServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/gdh_css/!svn/ver/5018/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/CallbackServiceImpl.java
+END
+SysLogServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gdh_css/!svn/ver/5256/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/SysLogServiceImpl.java
+END
+SysUserServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/gdh_css/!svn/ver/5037/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/SysUserServiceImpl.java
+END
+AbstractInvoiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/gdh_css/!svn/ver/5078/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/AbstractInvoiceService.java
+END
+SysConfigServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/gdh_css/!svn/ver/5269/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/SysConfigServiceImpl.java
+END
+InvoiceStatisticsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/gdh_css/!svn/ver/5287/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/InvoiceStatisticsServiceImpl.java
+END
+ElectronicInvoiceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/gdh_css/!svn/ver/5092/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/ElectronicInvoiceServiceImpl.java
+END
+SpecialInvoiceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/gdh_css/!svn/ver/5091/InvoiceApi/src/main/java/com/korosoft/invoice/service/impl/SpecialInvoiceServiceImpl.java
+END

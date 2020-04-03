@@ -1,0 +1,10 @@
+package com.korosoft.invoice.service;
+
+/**
+ * 电子发票
+ * @author 59532
+ *
+ */
+public interface ElectronicInvoiceService extends InvoiceService{
+
+}

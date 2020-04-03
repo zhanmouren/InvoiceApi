@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gdh_css/!svn/ver/4998/InvoiceApi/src/main/java/com/korosoft/invoice/repository
+END
+SysConfigRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/gdh_css/!svn/ver/4998/InvoiceApi/src/main/java/com/korosoft/invoice/repository/SysConfigRepository.java
+END
+SysUserRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/gdh_css/!svn/ver/4985/InvoiceApi/src/main/java/com/korosoft/invoice/repository/SysUserRepository.java
+END
+SysLogRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/repository/SysLogRepository.java
+END

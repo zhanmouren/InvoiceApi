@@ -1,0 +1,43 @@
+# Tomcat
+server:
+  tomcat:
+    uri-encoding: UTF-8
+    max-threads: 1000
+    min-spare-threads: 30
+  port: 8080
+  servlet:
+    context-path: /invoice/api
+
+spring:
+  profiles:
+    active: dev
+  main:
+    banner-mode: "off"
+  jackson:
+    date-format: yyyy-MM-dd HH:mm:ss
+    time-zone: GMT+8
+    serialization:
+      WRITE_DATES_AS_TIMESTAMPS: false
+    default-property-inclusion: non-empty
+  jpa:
+    properties:
+      dialect:
+        org.hibernate.dialect.MySQL5InnoDBDialect
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    database: mysql
+    
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+      enabled: true
+      
+app:
+  etcloud:
+    apiUrl:
+      http://192.168.4.202/etcloud/etcloud-ovat/common/api/apiPost
+  minute:
+    30

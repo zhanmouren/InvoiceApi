@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gdh_css/!svn/ver/5270/InvoiceApi/src/main/java/com/korosoft/invoice/dto
+END
+InvoiceStatisticsDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gdh_css/!svn/ver/5282/InvoiceApi/src/main/java/com/korosoft/invoice/dto/InvoiceStatisticsDto.java
+END
+AmountInfoDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/gdh_css/!svn/ver/5124/InvoiceApi/src/main/java/com/korosoft/invoice/dto/AmountInfoDto.java
+END
+InvoiceInfoDto.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/gdh_css/!svn/ver/5057/InvoiceApi/src/main/java/com/korosoft/invoice/dto/InvoiceInfoDto.java
+END

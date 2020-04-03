@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/gdh_css/!svn/ver/5051/InvoiceApi/src/main/resources
+END
+application-dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gdh_css/!svn/ver/5251/InvoiceApi/src/main/resources/application-dev.yml
+END
+logback.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/gdh_css/!svn/ver/5051/InvoiceApi/src/main/resources/logback.xml
+END
+application.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/gdh_css/!svn/ver/5250/InvoiceApi/src/main/resources/application.yml
+END
+application-pro.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/resources/application-pro.yml
+END

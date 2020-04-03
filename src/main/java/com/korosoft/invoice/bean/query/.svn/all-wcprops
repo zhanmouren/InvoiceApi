@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/bean/query
+END
+SysConfigQueryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/bean/query/SysConfigQueryBean.java
+END
+BaseQueryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/bean/query/BaseQueryBean.java
+END
+SysLogQueryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/gdh_css/!svn/ver/4978/InvoiceApi/src/main/java/com/korosoft/invoice/bean/query/SysLogQueryBean.java
+END
